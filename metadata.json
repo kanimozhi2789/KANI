@@ -1,0 +1,6 @@
+{
+  "name": "HAPPYTRAVELS",
+  "description": "Reliable one-way drop taxi, round-trip outstation cabs, and 24/7 airport transfers across South India. Call 8248028734.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
